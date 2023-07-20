@@ -1,8 +1,6 @@
 # ProjectAPI-Crude-oil-prices
 Introduction:
 
-**Analyzing Brent Crude Oil Prices**
-
 Welcome to the Brent Crude Oil Prices Analysis project GitHub repository! This project is an exploration of the dynamics of Brent crude oil prices, a critical commodity influencing the global energy market. Leveraging the oilpricesapi.com API, this repository provides valuable insights into historical price trends, future price predictions, and comprehensive visualizations, equipping users with the tools to navigate the complexities of the oil market.
 
 **Project Features:**
